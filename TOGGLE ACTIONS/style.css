@@ -1,0 +1,29 @@
+#para1
+{
+    text-align: justify;
+    /* text-justify: inter-word; */
+    padding: 0px 10px;
+}
+.mode-btn
+{
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: solid;
+    margin-left: 10px;
+}
+.mode-btn-light
+{
+    background-color: white;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: solid ;
+    margin-left: 10px;
+}
+
+
+.dark-mode
+{
+   background-color: black;
+   color: white;
+}
